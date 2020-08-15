@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/peremen/static/css/main.cf112675.chunk.css",
+    "main.js": "/peremen/static/js/main.567213bb.chunk.js",
+    "main.js.map": "/peremen/static/js/main.567213bb.chunk.js.map",
+    "runtime-main.js": "/peremen/static/js/runtime-main.348e5f8a.js",
+    "runtime-main.js.map": "/peremen/static/js/runtime-main.348e5f8a.js.map",
+    "static/js/2.f32ca2e5.chunk.js": "/peremen/static/js/2.f32ca2e5.chunk.js",
+    "static/js/2.f32ca2e5.chunk.js.map": "/peremen/static/js/2.f32ca2e5.chunk.js.map",
+    "index.html": "/peremen/index.html",
+    "precache-manifest.268074661e37729e6c052335111fd719.js": "/peremen/precache-manifest.268074661e37729e6c052335111fd719.js",
+    "service-worker.js": "/peremen/service-worker.js",
+    "static/css/main.cf112675.chunk.css.map": "/peremen/static/css/main.cf112675.chunk.css.map",
+    "static/js/2.f32ca2e5.chunk.js.LICENSE.txt": "/peremen/static/js/2.f32ca2e5.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/peremen/static/media/background.cf0260ed.jpg",
+    "static/media/logo.png": "/peremen/static/media/logo.638d7f78.png",
+    "static/media/peremen.mp3": "/peremen/static/media/peremen.941e46bf.mp3"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.348e5f8a.js",
+    "static/js/2.f32ca2e5.chunk.js",
+    "static/css/main.cf112675.chunk.css",
+    "static/js/main.567213bb.chunk.js"
+  ]
+}
